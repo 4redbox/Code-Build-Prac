@@ -22,7 +22,7 @@ if len(sys.argv) != 4:
 # Extract input values from command-line arguments
 num1 = float(sys.argv[1])
 num2 = float(sys.argv[2])
-operation = sys.argv[3
+operation = sys.argv[3]
 
 result = perform_operation(num1, num2, operation)
-print(result
+print(result)
